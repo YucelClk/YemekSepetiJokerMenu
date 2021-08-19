@@ -1,0 +1,4 @@
+priceArray := [13, 18, 21, 6, 3] ; price list of restaurant
+priceFloor := 22 ; min orderable price of restaurant
+difference := 3 ; max price willing to pay above floor
+aimedFloor := 30 ; 30->20, 40->25, 70->45 ;; aimed joker
